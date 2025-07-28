@@ -47,7 +47,7 @@ Backend Setup
 1.  **Clone the Repository:**
 
     ```
-    git clone <your-repository-url>
+    git clone [https://github.com/SunofCoder/Mini-Banking-App.git](https://github.com/SunofCoder/Mini-Banking-App.git)
     cd Mini-App/backend
     ```
 
