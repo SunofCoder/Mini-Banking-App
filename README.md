@@ -1,6 +1,6 @@
-Technologies Used
+## Technologies Used
 
-Backend
+### Backend
 
 * **Spring Boot:** A Java-based framework for building RESTful APIs.
 
@@ -16,7 +16,7 @@ Backend
 
 * **Jackson:** For JSON serialization/deserialization.
 
-Frontend
+### Frontend
 
 * **React:** A JavaScript library for building user interfaces.
 
@@ -28,11 +28,11 @@ Frontend
 
 * **Hash-Based Routing:** For navigation between pages (a simple hash-based solution instead of React Router).
 
-Setup Instructions
+## Setup Instructions
 
 Follow these steps to get the project up and running on your local machine.
 
-Prerequisites
+### Prerequisites
 
 * Java Development Kit (JDK) 17 or higher
 
@@ -42,12 +42,12 @@ Prerequisites
 
 * npm (comes with Node.js)
 
-Backend Setup
+### Backend Setup
 
 1.  **Clone the Repository:**
 
     ```
-    git clone [https://github.com/SunofCoder/Mini-Banking-App.git](https://github.com/SunofCoder/Mini-Banking-App.git)
+    git clone (https://github.com/SunofCoder/Mini-Banking-App.git)
     cd Mini-App/backend
     ```
 
@@ -65,7 +65,7 @@ Backend Setup
 
     The backend application will run on `http://localhost:8080` by default.
 
-Frontend Setup
+### Frontend Setup
 
 1.  **Navigate to the Frontend Directory:**
 
@@ -87,7 +87,7 @@ Frontend Setup
 
     The frontend application will run on `http://localhost:5173` by default.
 
-Usage
+## Usage
 
 1.  **Open the Application:** Go to `http://localhost:5173` in your browser.
 
