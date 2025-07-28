@@ -104,3 +104,17 @@ Usage
 7.  **Transfer Money:** You can send money to another account from an account's detail page using the "Transfer Money" option.
 
 8.  **Transaction History:** You can view the transaction history for a specific account from its detail page using the "View Transaction History" option.
+
+## Future Enhancements (Optional)
+
+* **Swagger Integration:** To provide automatic documentation for Backend APIs.
+
+* **More Advanced UI/UX:** Graphs on the Dashboard, more detailed form validation, theme options.
+
+* **Additional Banking Functions:** Deposit/withdrawal, bill payments, recurring transfers.
+
+* **Enhanced Security:** Two-factor authentication (2FA), password reset.
+
+* **Performance Improvements:** Pagination or infinite scrolling for large data sets.
+
+* **Tests:** Writing unit and integration tests for both backend and frontend.
